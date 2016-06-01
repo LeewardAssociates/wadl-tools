@@ -77,6 +77,7 @@ import java.util.List;
     "resourceTypeOrMethodOrRepresentation",
     "any"
 })
+
 @XmlRootElement(name = "application")
 public class Application {
 

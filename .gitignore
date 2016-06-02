@@ -19,3 +19,6 @@ target/
 
 # Mac files.
 .DS_Store
+
+/spring-wadl-generator/bin/
+/spring-wadl-generator/bin/*
